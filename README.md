@@ -9,7 +9,7 @@ Mining pools are naturally and increasingly centralized, we set out to change th
 
 If this sounds like a grant you want to support, then send The 256 Foundaton a tax deductible donation [here](https://pay.zaprite.com/pl_ZRWeSGjRWG)! Or use The 256 Foundation [PayNym](https://paynym.rs/+appetizingadministration90)!
 
-## Scope:
+## Scope
 One Project Manager position and one developer position to fulfill the mission of The 256 Foundation, “Dismantle the proprietary mining empire to make Bitcoin and freedom tech accessible to anyone”. This grant proposal aims to secure funding for:
 
 * The grant officially launched April 5, 2025.
@@ -22,7 +22,8 @@ One Project Manager position and one developer position to fulfill the mission o
 * This project is fully open-source GPLv3 licensed.
 * Excluded from this proposal are sales, distribution, marketing, and customer technical support.
 
-## Deliverables:
+## Deliverables
+
 * Pool application for linux that talks to bitcoind and provides stratum work to users and stores received shares.
 * Scalable and robust database support to save received shares.
 * Run share accounting on the stored shares.
@@ -34,15 +35,15 @@ One Project Manager position and one developer position to fulfill the mission o
 
 The initial release of Hydra Pool is being built in such a way that it supports long-term goals like alternative payout models such as echash, communicating with other Hydra Pool instances, Local store of shares for Ember One, and a user-friendly interface that puts controls at the user's fingertips, and supports the ability for upstream pool proxying. 
 
-## Timeline:
+## Timeline
 The timeline for this grant proposal is six months with the opportunity to extend the grant cycle at the conclusion of each six month period, pending negotiations.
 
-## Materials:
+## Materials
 Materials for this project’s initial release are included in the budget. Potential materials for the project may include but are not limited to various common mining rigs for testing and various other tools or software.
 
-## Team Members:
+## Team Members
 Lead Developer = [@jungly](https://x.com/jungly)
 Project Manager = [@econoalchemist](https://x.com/econoalchemist)
 
-## Budget:
+## Budget
 For security reasons, exact dollar amounts are kept confidential. This project budget covers fair-market compensation for one project manager as well as the materials, travel expenses, and living expenses for one developer for six months. Funds are disbursed monthly in equal amounts. Within 30-days prior to the expiration of this grant cycle, a renewal opportunity will open and be subject to review and negotiation.
