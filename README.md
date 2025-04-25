@@ -1,4 +1,4 @@
-## Open Mining
+## An Open Mining Pool
 Mining pools are naturally and increasingly centralized, we set out to change that with this grant. In the event that authoritative governments attempt to coerce mining pools to do things that mining operators disagree with, there needs to be easily deployable options readily available to quickly divert hashrate from such choke points. For example, these threats could be in the form of forcing pools to KYC their users, or forcing pools to censor OFAC transactions, or orphaning blocks containing transactions they want censored based on any arbitrary factor. If anyone can spin up a mining pool on their Ember One mining system, with a self-hosted computer, or a VPS and this open-source project then mining operators are going to be able to pool their resources back together faster and the pressure will grow exponentially on the resources needed to uphold misaligned demands. In short, Hydra Pool is a project to make deploying a mining pool server with a Bitcoin node and Stratum v1/v2 server as easy as "one-click". 
 
 <p align="center">
@@ -40,6 +40,7 @@ Materials for this project’s initial release are included in the budget. Poten
 
 ## Team Members
 Lead Developer = [@jungly](https://x.com/jungly)
+
 Project Manager = [@econoalchemist](https://x.com/econoalchemist)
 
 ## Budget
