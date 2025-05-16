@@ -7,7 +7,7 @@ Use any vanity username you want, no need to add a BTC address. The test iterati
 
 Pool Statistics can be monitored at: [stats.hydrapool.org](https://stats.hydrapool.org)
 
-A table of the tested hardware is presented <a href="https://github.com/256-Foundation/Hydra-Pool/blob/main/testing/hardware-tests.html" target="blank" rel="noopener noreferrer"><font color="orange">here</font></a>.
+A table of the tested hardware is presented <a href="/hardware-tests.html" target="blank" rel="noopener noreferrer">here</a>.
 
 <br>
 
